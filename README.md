@@ -1,4 +1,6 @@
 # Hello-World
 Hello world!
 
-Improvement to the Hello world file!
+This is my first attempt at making a github project!
+
+Lets go!
